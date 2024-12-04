@@ -1,4 +1,3 @@
-![Flow Logs](https://github.com/saikiranpi/mastering-aws/assets/109568252/15614265-ebd8-4769-a7f2-636e56188098)
 
 
 
