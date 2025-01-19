@@ -16,7 +16,7 @@ This AWS Labs is about hands on techniques to troubleshoot scenarios for their A
 if you've already signed up for Amazon Web Services (AWS) and already have an IAM user or role with administrative permissions, you can jump next section.
 
 ### DNS Knowledge
-It is necessary you shloud have some DNS knowledge and DNS Terminilogies.
+It is necessary you shloud have some DNS knowledge and DNS Terms.
 To perform this lab a registered domain name (preferably in Route53, but a 3rd party DNS provider should still work).
 This troubleshooting lab will be using shaikhwaseem.com as an example. You will not be able to use this domain. You must have your own registered Domain name.
 To register your own domain name with Route53, please see Registering a new domain .
