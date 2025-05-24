@@ -7,6 +7,6 @@ This Repo is all about AWS Labs
 
 Welcome repo is all about **AWWS Cloud for begineers**   
 
-📦 [1. linuxforbeginners 💾 Day 01](./linux-day01.md)
+📦 [1. What is Cloud Computing 💾 Day 01](./README.md)
 
 <!-- 📦 [2. linuxforbeginners 💾 Day 02](./linux-day02.md) -->
