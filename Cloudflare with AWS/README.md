@@ -36,8 +36,7 @@ Cloudflare acts as a **middle layer** between the **client (end-user)** and your
 5. If not cached, Cloudflare securely fetches it from your **origin server**.
 6. The content is sent back to the user **faster and more securely**.
 
-
-📦 [cloudflare](./img/cloudflare.png)
+![cloudflare](./img/cloudflare.png)
 
 ---
 
